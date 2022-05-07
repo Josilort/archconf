@@ -8,13 +8,20 @@ networkmanager
 base-devel
 zsh
 
+Xorg:
+
+nvidia
+nvidia-utils
+nvidia-settings
+xorg
+xorg-xinit
+
 yay:
 
 awesome-git
 picom-git
+kitty
 lxappearance-gtk3
-nvidia
-nvidia-settings
 
 pfetch
 rofi
