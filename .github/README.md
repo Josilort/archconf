@@ -3,7 +3,7 @@
 <h2></h2><br>
 
 <p align="center">
-  <b>🌕 Rxyhn's Beautiful & Aesthetic Configuration Files 🌑</b>
+  <b> Josia's Arch Configuration Files </b>
 </p>
 
 <h2></h2><br>
@@ -11,10 +11,15 @@
 <br>
 <br>
 
-### Hi there! Thanks for dropping by! 🖤
+### Hi there!
 <a href="https://awesomewm.org/"><img alt="AwesomeWM Logo" height="150" align = "left" src="https://awesomewm.org/doc/api/images/AUTOGEN_wibox_logo_logo_and_name.svg"></a>
 
 <b> Josia's AwesomeWM Dotfiles! </b>
+
+
+
+
+
 <h2></h2><br>
 
 **Here are some details about my setup:**
