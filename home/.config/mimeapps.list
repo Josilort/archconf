@@ -1,0 +1,5 @@
+[Added Associations]
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
+
+[Default Applications]
+x-scheme-handler/discord-418076578333851669=discord-418076578333851669.desktop
