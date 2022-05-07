@@ -1,7 +1,6 @@
 pacman:
 
 vim
-vim-plug
 git
 sudo
 networkmanager
@@ -20,6 +19,7 @@ xorg-xinit
 
 yay:
 
+vim-plug
 awesome-git
 picom-git
 kitty

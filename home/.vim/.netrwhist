@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/j/dotfiles/master/.git'
+let g:netrw_dirhist_5='/home/j/dotfiles/master/.git/hooks'
+let g:netrw_dirhist_4='/home/j/dotfiles/master/.git'
+let g:netrw_dirhist_3='/home/j/dotfiles/master/.git/branches'
+let g:netrw_dirhist_2='/home/j/dotfiles/master/.git'
+let g:netrw_dirhist_1='/home/j'
+let g:netrw_dirhist_0='/home'
+let g:netrw_dirhist_9='/home/j'
+let g:netrw_dirhist_8='/home'
+let g:netrw_dirhist_7='/mnt/usb1/Info/VsCode_linux/data/user-data/blob_storage'
