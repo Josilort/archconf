@@ -12,29 +12,6 @@
 <br>
 
 ### Hi there!
-<a href="https://awesomewm.org/"><img alt="AwesomeWM Logo" height="150" align = "left" src="https://awesomewm.org/doc/api/images/AUTOGEN_wibox_logo_logo_and_name.svg"></a>
-
-<b> Josia's AwesomeWM Dotfiles! </b>
-
-test
-test
-test
-test
-
-<h2></h2><br>
-
-**Here are some details about my setup:**
-
-| Programs   | Using             |
-| ---------- | ----------------- |
-| WM         | awesome           |
-| OS         | arch linux        |
-| Terminal   | kitty	         |
-| Shell      | zsh               |
-| Editor     | vim / vscode      |
-| Compositor | picom             |
-
-<h2></h2><br>
 
 <h2></h2><br>
 
