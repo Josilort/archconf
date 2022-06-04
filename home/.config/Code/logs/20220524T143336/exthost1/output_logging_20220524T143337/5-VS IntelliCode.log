@@ -1,0 +1,7 @@
+Acquiring model 'intellisense-members' for java
+Querying IntelliCode service for available models.
+Cached model is up to date.
+vs-intellicode-java was passed a model: {"modelId":"45788CA1782FEF17F07049DB4764F5647A62","modelPath":"/home/j/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.21/cache/45788CA1782FEF17F07049DB4764F5647A62_975CC5EC71E347A9B047E779B175B7D3","outputId":"975CC5EC71E347A9B047E779B175B7D3"}.
+Java Extension is activated.
+JavaAPI: {"apiVersion":"0.6","javaRequirement":{"tooling_jre":"/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/jre/17.0.2-linux-x86_64","tooling_jre_version":17,"java_home":"/usr/lib/jvm/java-18-openjdk","java_version":18},"status":"Started","serverMode":"Hybrid"}
+Enabled IntelliCode for Java.

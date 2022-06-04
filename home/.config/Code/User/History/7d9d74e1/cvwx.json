@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Nord",
+    "files.autoSave": "afterDelay",
+    "window.menuBarVisibility": "toggle",
+
+    "java.jdt.ls.java.home": "/usr/bin/java",
+    "workbench.iconTheme": "material-icon-theme",
+
+    "editor.fontFamily": "FiraCode Nerd Font Mono",
+    "editor.fontLigatures": true
+}

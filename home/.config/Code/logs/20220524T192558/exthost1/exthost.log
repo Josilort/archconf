@@ -1,0 +1,272 @@
+[2022-05-24 19:25:59.732] [exthost] [info] Extension host with pid 103892 started
+[2022-05-24 19:25:59.732] [exthost] [info] Skipping acquiring lock for /home/j/.config/Code/User/workspaceStorage/f22ff248307dd6f261e926a2c59fecfd.
+[2022-05-24 19:25:59.796] [exthost] [info] ExtensionService#_doActivateExtension redhat.java, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-24 19:25:59.821] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-24 19:25:59.850] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-24 19:25:59.864] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-24 19:25:59.882] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-24 19:25:59.907] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-24 19:25:59.918] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-24 19:25:59.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-24 19:25:59.921] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-24 19:26:00.045] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-24 19:26:00.055] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-24 19:26:00.187] [exthost] [info] Eager extensions activated
+[2022-05-24 19:26:00.200] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 19:26:00.202] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 19:26:00.203] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 19:26:00.205] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 19:26:00.210] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 19:26:00.263] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 19:26:00.269] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-24 19:26:00.332] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2022-05-24 19:26:00.407] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2022-05-24 19:26:02.165] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-24 19:26:03.299] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:26:03.302] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:29:40.194] [exthost] [error] Error: The request (id: 31, method: 'workspace/executeCommand') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21) java.execute.workspaceCommand {"value":"redhat.java","_lower":"redhat.java"}
+[2022-05-24 19:29:40.194] [exthost] [error] [VisualStudioExptTeam.vscodeintellicode] provider FAILED
+[2022-05-24 19:29:40.194] [exthost] [error] Error: The request (id: 31, method: 'workspace/executeCommand') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21)
+[2022-05-24 19:31:44.011] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-05-24 19:31:44.013] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-05-24 19:31:44.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-05-24 19:31:44.024] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-05-24 19:31:44.082] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-05-24 19:31:44.094] [exthost] [info] Extension host with pid 103892 exiting with code 0
+[2022-05-24 19:31:44.398] [exthost] [info] Extension host with pid 106311 started
+[2022-05-24 19:31:44.398] [exthost] [info] Skipping acquiring lock for /home/j/.config/Code/User/workspaceStorage/f22ff248307dd6f261e926a2c59fecfd.
+[2022-05-24 19:31:44.460] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-24 19:31:44.463] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-24 19:31:44.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-24 19:31:44.468] [exthost] [info] ExtensionService#_doActivateExtension redhat.java, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-24 19:31:44.501] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-24 19:31:44.524] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-24 19:31:44.533] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-24 19:31:44.562] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-24 19:31:44.578] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-24 19:31:44.586] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-24 19:31:44.595] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-05-24 19:31:44.596] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-05-24 19:31:44.598] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-05-24 19:31:44.605] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-05-24 19:31:44.868] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-24 19:31:44.877] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-24 19:31:44.969] [exthost] [info] Eager extensions activated
+[2022-05-24 19:31:44.992] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 19:31:44.995] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 19:31:44.996] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 19:31:44.998] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 19:31:45.002] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 19:31:45.058] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-24 19:31:45.144] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2022-05-24 19:31:45.191] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2022-05-24 19:31:46.977] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-24 19:31:48.032] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:31:48.035] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:32:19.169] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:32:19.169] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:32:34.608] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-05-24 19:34:19.678] [exthost] [error] Error: The request (id: 150, method: 'workspace/executeCommand') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21) java.execute.workspaceCommand {"value":"redhat.java","_lower":"redhat.java"}
+[2022-05-24 19:34:19.678] [exthost] [error] [VisualStudioExptTeam.vscodeintellicode] provider FAILED
+[2022-05-24 19:34:19.678] [exthost] [error] Error: The request (id: 150, method: 'workspace/executeCommand') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21)
+[2022-05-24 19:38:22.583] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:38:22.583] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:38:31.060] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:38:31.060] [exthost] [error] Error: The request (id: 1174, method: 'textDocument/hover') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21)
+[2022-05-24 19:39:10.040] [exthost] [error] Error: The request (id: 1249, method: 'workspace/executeCommand') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21) java.execute.workspaceCommand {"value":"redhat.java","_lower":"redhat.java"}
+[2022-05-24 19:39:10.040] [exthost] [error] [VisualStudioExptTeam.vscodeintellicode] provider FAILED
+[2022-05-24 19:39:10.040] [exthost] [error] Error: The request (id: 1249, method: 'workspace/executeCommand') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21)
+[2022-05-24 19:39:20.743] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:39:20.743] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:40:24.326] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:40:24.326] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:41:57.040] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:41:57.040] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:42:29.612] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:42:29.612] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at runNextTicks (node:internal/process/task_queues:61:5)
+	at processImmediate (node:internal/timers:437:9)
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:42:36.354] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:42:36.354] [exthost] [error] Error: The request (id: 2313, method: 'textDocument/documentSymbol') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21)
+[2022-05-24 19:42:57.174] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:42:57.174] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:43:06.039] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:43:06.039] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:43:13.628] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:43:13.628] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:43:33.659] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:43:33.659] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:46:28.424] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:46:28.424] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:47:05.989] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:47:05.989] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:47:51.625] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:47:51.625] [exthost] [error] Error: The request (id: 3996, method: 'textDocument/documentSymbol') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21)
+[2022-05-24 19:47:51.823] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:47:51.824] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:47:51.945] [exthost] [error] Error: Cannot invoke "org.eclipse.jdt.core.dom.ASTNode.getParent()" because "node" is null
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21) java.execute.workspaceCommand {"value":"redhat.java","_lower":"redhat.java"}
+[2022-05-24 19:49:49.224] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:49:49.224] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:51:19.857] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:51:19.857] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:52:01.685] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:52:01.685] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:52:40.917] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:52:40.917] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:52:49.759] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:52:49.759] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:53:35.113] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:53:35.113] [exthost] [error] Error: The request (id: 5201, method: 'textDocument/hover') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21)
+[2022-05-24 19:55:33.364] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:55:33.365] [exthost] [error] Error: The request (id: 5408, method: 'textDocument/hover') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21)
+[2022-05-24 19:56:05.706] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:56:05.707] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:56:06.065] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:56:06.065] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 19:56:11.555] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:56:11.555] [exthost] [error] Error: The request (id: 5637, method: 'textDocument/hover') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21)
+[2022-05-24 19:56:50.107] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 19:56:50.107] [exthost] [error] Error: The request (id: 5688, method: 'textDocument/hover') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21)
+[2022-05-24 19:58:32.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-24 20:02:21.746] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 20:02:21.746] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 20:02:48.330] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 20:02:48.330] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 20:09:49.741] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 20:09:49.741] [exthost] [error] Error: The request (id: 7349, method: 'textDocument/hover') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21)
+[2022-05-24 20:11:41.577] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 20:11:41.577] [exthost] [error] Error: The request (id: 7646, method: 'textDocument/documentSymbol') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21)
+[2022-05-24 20:17:00.852] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 20:17:00.852] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 20:17:19.650] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 20:17:19.650] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 20:18:15.387] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 20:18:15.387] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 20:18:17.314] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 20:18:17.314] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 20:19:31.493] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-24 20:19:31.493] [exthost] [error] TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 22:57:08.577] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-05-24 22:57:08.596] [exthost] [info] Extension host with pid 106311 exiting with code 0

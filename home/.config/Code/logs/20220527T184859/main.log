@@ -1,0 +1,7 @@
+[2022-05-27 18:48:59.583] [main] [info] window#load: attempt to load window (id: 1)
+[2022-05-27 18:48:59.591] [main] [info] update#setState idle
+[2022-05-27 18:48:59.624] [main] [info] ExtensionHostStarterWorker created
+[2022-05-27 18:49:00.392] [main] [info] window#load: window reported ready (id: 1)
+[2022-05-27 18:49:00.568] [main] [info] Starting extension host with pid 73099 (fork() took 42 ms).
+[2022-05-27 18:49:00.569] [main] [info] ExtensionHostStarterWorker.start() took 43 ms.
+[2022-05-27 18:49:04.409] [main] [info] Extension host with pid 73099 exited with code: 0, signal: null.

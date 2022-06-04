@@ -1,0 +1,16 @@
+Acquiring model 'intellisense-members' for java
+Querying IntelliCode service for available models.
+Cached model is up to date.
+vs-intellicode-java was passed a model: {"modelId":"45788CA1782FEF17F07049DB4764F5647A62","modelPath":"/home/j/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.21/cache/45788CA1782FEF17F07049DB4764F5647A62_975CC5EC71E347A9B047E779B175B7D3","outputId":"975CC5EC71E347A9B047E779B175B7D3"}.
+Java Extension is activated.
+JavaAPI: {"apiVersion":"0.6","javaRequirement":{"tooling_jre":"/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/jre/17.0.2-linux-x86_64","tooling_jre_version":17,"java_home":"/usr/lib/jvm/java-18-openjdk","java_version":18},"status":"Started","serverMode":"Hybrid"}
+Enabled IntelliCode for Java.
+Language server is set to "Default". Pylance is used as current language server.
+Acquiring model
+Acquiring model 'intellisense-members-lstm-pylance' for python
+Querying IntelliCode service for available models.
+vs-intellicode-python was passed a model: {}.
+Downloading model.
+Starting download of https://intellicodeprodstorage.blob.core.windows.net/models-prod-output/Output_E61945A9A512ED5E1A3EE3F1A2365B88F8FE_E4E9EADA96734F01970E616FAB2FAC19?skoid=364bb3f6-cf21-46c6-bf5a-f6498967df82&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2022-05-24T09%3A23%3A44Z&ske=2022-05-25T09%3A23%3A44Z&sks=b&skv=2020-02-10&sv=2020-02-10&se=2022-05-24T13%3A45%3A00Z&sr=b&sp=r&sig=yxhbiZnnTcpm5zpx8kFIPKn5n1rb5Rnc8W4RbqsMP8A%3D
+Download complete.
+Activating Python extension

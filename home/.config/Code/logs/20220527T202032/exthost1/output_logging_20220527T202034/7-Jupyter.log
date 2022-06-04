@@ -1,0 +1,17 @@
+Visual Studio Code (1.67.2, undefined, desktop)
+Jupyter Extension Version: 2022.4.1021342353.
+Python Extension Version: 2022.6.2.
+Workspace folder /run/media/j/josia/Info/Workspace
+info 20:20:34.489: ZMQ install verified.
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 20:20:34.838: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 20:20:35.58: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+info 20:21:0.917: Shutting down notebooks for 026fa8e3-d1f0-4c77-9f6d-30749ae1fd36
+info 20:21:0.917: Disposing HostJupyterExecution 78aa95ba-c32d-4641-884d-8e13b6af82dd
+info 20:21:0.917: Disposing super HostJupyterExecution 78aa95ba-c32d-4641-884d-8e13b6af82dd
+info 20:21:0.918: Disposing HostJupyterExecution 78aa95ba-c32d-4641-884d-8e13b6af82dd
+info 20:21:0.918: Finished disposing HostJupyterExecution  78aa95ba-c32d-4641-884d-8e13b6af82dd
+info 20:21:0.931: Cleaning up server cache 78aa95ba-c32d-4641-884d-8e13b6af82dd
+info 20:21:0.931: Finished disposing HostJupyterExecution  78aa95ba-c32d-4641-884d-8e13b6af82dd

@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "afterDelay",
+    "window.menuBarVisibility": "toggle",
+
+    "workbench.iconTheme": "material-icon-theme",
+
+    "editor.fontFamily": "FiraCode Nerd Font Mono",
+    "editor.fontLigatures": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.colorTheme": "Nord",
+    "explorer.confirmDelete": false,
+}

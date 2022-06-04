@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Nord",
+    "files.autoSave": "afterDelay",
+    "window.menuBarVisibility": "toggle",
+
+    "workbench.iconTheme": "material-icon-theme",
+
+    "editor.fontFamily": "FiraCode Nerd Font Mono",
+    "editor.fontLigatures": true
+}

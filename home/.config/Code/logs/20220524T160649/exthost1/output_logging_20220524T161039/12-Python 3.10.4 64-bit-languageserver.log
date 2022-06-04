@@ -1,0 +1,22 @@
+[Info  - 4:14:30 PM] (49817) Pylance language server 2022.5.2 (pyright 0577bc22) starting
+[Info  - 4:14:30 PM] (49817) Server root directory: /home/j/.vscode/extensions/ms-python.vscode-pylance-2022.5.2/dist
+[Info  - 4:14:30 PM] (49817) No configuration file found.
+[Info  - 4:14:30 PM] (49817) No pyproject.toml file found.
+[Info  - 4:14:30 PM] (49817) Setting pythonPath for service "awesome": "/bin/python"
+[Warn  - 4:14:30 PM] (49817) stubPath /home/j/.config/awesome/typings is not a valid directory.
+[Info  - 4:14:30 PM] (49817) Assuming Python version 3.10
+[Info  - 4:14:30 PM] (49817) Assuming Python platform Linux
+[Info  - 4:14:30 PM] (49817) Searching for source files
+[Info  - 4:14:30 PM] (49817) No source files found.
+[Info  - 4:14:30 PM] (49817) No configuration file found.
+[Info  - 4:14:30 PM] (49817) No pyproject.toml file found.
+[Info  - 4:14:30 PM] (49817) Setting pythonPath for service "Workspace": "/bin/python"
+[Warn  - 4:14:30 PM] (49817) stubPath /run/media/j/josia/Info/Workspace/typings is not a valid directory.
+[Info  - 4:14:30 PM] (49817) Assuming Python version 3.10
+[Info  - 4:14:30 PM] (49817) Assuming Python platform Linux
+[Info  - 4:14:30 PM] (49817) Searching for source files
+[Info  - 4:14:30 PM] (49817) Found 3 source files
+[Info  - 4:14:30 PM] (49817) Background analysis(1) root directory: /home/j/.vscode/extensions/ms-python.vscode-pylance-2022.5.2/dist
+[Info  - 4:14:30 PM] (49817) Background analysis(1) started
+[Info  - 4:14:30 PM] (49817) Background analysis(2) root directory: /home/j/.vscode/extensions/ms-python.vscode-pylance-2022.5.2/dist
+[Info  - 4:14:30 PM] (49817) Background analysis(2) started

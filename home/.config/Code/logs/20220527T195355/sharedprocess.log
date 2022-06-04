@@ -1,0 +1,15 @@
+[2022-05-27 19:53:57.185] [sharedprocess] [info] Starting worker process with pid 97570 (type: fileWatcher, window: 1).
+[2022-05-27 19:53:57.213] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter-renderers /home/j/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.6
+[2022-05-27 19:53:57.303] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/j/.vscode/extensions/ms-python.vscode-pylance-2022.5.2
+[2022-05-27 19:54:10.977] [sharedprocess] [info] Getting Manifest... mtxr.sqltools
+[2022-05-27 19:54:10.982] [sharedprocess] [info] Installing extension: mtxr.sqltools
+[2022-05-27 19:54:12.166] [sharedprocess] [info] Downloaded extension: mtxr.sqltools /home/j/.config/Code/CachedExtensionVSIXs/mtxr.sqltools-0.23.0
+[2022-05-27 19:54:12.261] [sharedprocess] [info] Extracted extension to /home/j/.vscode/extensions/.cf6ee90a-0bc5-4362-b8b4-ef7fb0858bfe: mtxr.sqltools
+[2022-05-27 19:54:12.265] [sharedprocess] [info] Renamed to /home/j/.vscode/extensions/mtxr.sqltools-0.23.0
+[2022-05-27 19:54:12.266] [sharedprocess] [info] Extracting completed. mtxr.sqltools
+[2022-05-27 19:54:12.267] [sharedprocess] [info] Extension installed successfully: mtxr.sqltools
+[2022-05-27 19:54:37.004] [sharedprocess] [info] Uninstalling extension: mtxr.sqltools
+[2022-05-27 19:54:37.170] [sharedprocess] [info] Detected extension removed from another source mtxr.sqltools
+[2022-05-27 19:54:37.340] [sharedprocess] [info] Successfully uninstalled extension: mtxr.sqltools
+[2022-05-27 19:54:38.588] [sharedprocess] [info] Worker process with pid 97570 terminated normally (type: fileWatcher, window: 1).
+[2022-05-27 19:54:39.346] [sharedprocess] [info] Starting worker process with pid 97747 (type: fileWatcher, window: 1).

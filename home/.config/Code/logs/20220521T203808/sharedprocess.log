@@ -1,0 +1,16 @@
+[2022-05-21 20:38:10.346] [sharedprocess] [info] Starting worker process with pid 7098 (type: fileWatcher, window: 1).
+[2022-05-21 20:38:10.477] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-05-21 20:38:10.494] [sharedprocess] [info] Worker process with pid 7098 terminated normally (type: fileWatcher, window: 1).
+[2022-05-21 20:38:10.494] [sharedprocess] [info] Starting worker process with pid 7112 (type: fileWatcher, window: 1).
+[2022-05-21 20:38:10.581] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-05-21 20:38:10.581] [sharedprocess] [info] Worker process with pid 7112 terminated normally (type: fileWatcher, window: 1).
+[2022-05-21 20:38:10.587] [sharedprocess] [info] Starting worker process with pid 7127 (type: fileWatcher, window: 1).
+[2022-05-21 20:38:10.679] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-05-21 20:38:10.679] [sharedprocess] [info] Worker process with pid 7127 terminated normally (type: fileWatcher, window: 1).
+[2022-05-21 20:38:10.684] [sharedprocess] [info] Starting worker process with pid 7141 (type: fileWatcher, window: 1).
+[2022-05-21 20:38:10.776] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-05-21 20:38:10.776] [sharedprocess] [info] Worker process with pid 7141 terminated normally (type: fileWatcher, window: 1).
+[2022-05-21 20:38:10.785] [sharedprocess] [info] Starting worker process with pid 7155 (type: fileWatcher, window: 1).
+[2022-05-21 20:38:10.888] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-05-21 20:38:10.889] [sharedprocess] [info] Worker process with pid 7155 terminated normally (type: fileWatcher, window: 1).
+[2022-05-21 20:38:10.897] [sharedprocess] [info] Starting worker process with pid 7169 (type: fileWatcher, window: 1).

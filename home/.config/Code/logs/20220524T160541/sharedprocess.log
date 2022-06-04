@@ -1,0 +1,10 @@
+[2022-05-24 16:05:43.559] [sharedprocess] [info] Deleted from disk akamud.vscode-theme-onedark /home/j/.vscode/extensions/akamud.vscode-theme-onedark-2.2.3
+[2022-05-24 16:05:43.645] [sharedprocess] [info] Starting worker process with pid 45543 (type: fileWatcher, window: 1).
+[2022-05-24 16:06:21.669] [sharedprocess] [info] Uninstalling extension: zhuangtongfa.material-theme
+[2022-05-24 16:06:21.860] [sharedprocess] [info] Detected extension removed from another source zhuangtongfa.material-theme
+[2022-05-24 16:06:22.040] [sharedprocess] [info] Successfully uninstalled extension: zhuangtongfa.material-theme
+[2022-05-24 16:06:23.561] [sharedprocess] [info] Getting Manifest... zhuangtongfa.material-theme
+[2022-05-24 16:06:23.565] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2022-05-24 16:06:23.735] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /home/j/.config/Code/CachedExtensionVSIXs/zhuangtongfa.material-theme-3.13.29
+[2022-05-24 16:06:23.759] [sharedprocess] [info] Removed the extension from uninstalled list: zhuangtongfa.material-theme
+[2022-05-24 16:06:23.762] [sharedprocess] [info] Extension installed successfully: zhuangtongfa.material-theme

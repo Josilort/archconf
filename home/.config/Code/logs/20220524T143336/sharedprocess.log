@@ -1,0 +1,18 @@
+[2022-05-24 14:33:37.831] [sharedprocess] [info] Starting worker process with pid 913 (type: fileWatcher, window: 1).
+[2022-05-24 16:02:25.091] [sharedprocess] [info] Getting Manifest... akamud.vscode-theme-onedark
+[2022-05-24 16:02:25.094] [sharedprocess] [info] Installing extension: akamud.vscode-theme-onedark
+[2022-05-24 16:02:26.150] [sharedprocess] [info] Downloaded extension: akamud.vscode-theme-onedark /home/j/.config/Code/CachedExtensionVSIXs/akamud.vscode-theme-onedark-2.2.3
+[2022-05-24 16:02:26.173] [sharedprocess] [info] Extracted extension to /home/j/.vscode/extensions/.19621e12-a39a-4dcb-8dfd-7ce637ca5d99: akamud.vscode-theme-onedark
+[2022-05-24 16:02:26.176] [sharedprocess] [info] Renamed to /home/j/.vscode/extensions/akamud.vscode-theme-onedark-2.2.3
+[2022-05-24 16:02:26.177] [sharedprocess] [info] Extracting completed. akamud.vscode-theme-onedark
+[2022-05-24 16:02:26.179] [sharedprocess] [info] Extension installed successfully: akamud.vscode-theme-onedark
+[2022-05-24 16:03:05.479] [sharedprocess] [info] Uninstalling extension: akamud.vscode-theme-onedark
+[2022-05-24 16:03:05.624] [sharedprocess] [info] Detected extension removed from another source akamud.vscode-theme-onedark
+[2022-05-24 16:03:05.821] [sharedprocess] [info] Successfully uninstalled extension: akamud.vscode-theme-onedark
+[2022-05-24 16:05:26.260] [sharedprocess] [info] Uninstalling extension: zhuangtongfa.material-theme
+[2022-05-24 16:05:26.683] [sharedprocess] [info] Successfully uninstalled extension: zhuangtongfa.material-theme
+[2022-05-24 16:05:29.251] [sharedprocess] [info] Getting Manifest... zhuangtongfa.material-theme
+[2022-05-24 16:05:29.254] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2022-05-24 16:05:29.414] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /home/j/.config/Code/CachedExtensionVSIXs/zhuangtongfa.material-theme-3.13.29
+[2022-05-24 16:05:29.432] [sharedprocess] [info] Removed the extension from uninstalled list: zhuangtongfa.material-theme
+[2022-05-24 16:05:29.435] [sharedprocess] [info] Extension installed successfully: zhuangtongfa.material-theme

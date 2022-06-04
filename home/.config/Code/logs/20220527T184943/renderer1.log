@@ -1,0 +1,56 @@
+[2022-05-27 18:49:44.471] [renderer1] [warning] Ignoring the error while validating workspace folder file:///run/media/j/josia/Info/Workspace - Error: ENOENT: no such file or directory, stat '/run/media/j/josia/Info/Workspace'
+[2022-05-27 18:49:44.527] [renderer1] [error] Error: File not found
+    at g.handleSetInputError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2701:95592)
+    at async g.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2701:94832)
+    at async doSetInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:6429)
+    at async doOpenEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:4791)
+    at async d.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:3783)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2906:16950
+[2022-05-27 18:49:45.317] [renderer1] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /run/media/j/josia/Info/Workspace)
+[2022-05-27 18:49:45.317] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-05-27 18:49:45.418] [renderer1] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /run/media/j/josia/Info/Workspace)
+[2022-05-27 18:49:45.419] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-05-27 18:49:45.515] [renderer1] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /run/media/j/josia/Info/Workspace)
+[2022-05-27 18:49:45.516] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-05-27 18:49:45.613] [renderer1] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /run/media/j/josia/Info/Workspace)
+[2022-05-27 18:49:45.614] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-05-27 18:49:45.724] [renderer1] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /run/media/j/josia/Info/Workspace)
+[2022-05-27 18:49:45.725] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-05-27 18:49:45.843] [renderer1] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /run/media/j/josia/Info/Workspace)
+[2022-05-27 18:49:45.844] [renderer1] [error] [File Watcher (universal)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-05-27 18:49:46.065] [renderer1] [error] ENOENT: no such file or directory, scandir '/run/media/j/josia/Info/Workspace': Error: ENOENT: no such file or directory, scandir '/run/media/j/josia/Info/Workspace'
+[2022-05-27 18:50:02.134] [renderer1] [error] Error: File not found
+    at g.handleSetInputError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2701:95592)
+    at async g.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2701:94832)
+    at async doSetInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:6429)
+    at async doOpenEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:4791)
+    at async d.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:3783)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2906:16950
+[2022-05-27 18:50:02.613] [renderer1] [error] Error: File not found
+    at g.handleSetInputError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2701:95592)
+    at async g.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2701:94832)
+    at async doSetInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:6429)
+    at async doOpenEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:4791)
+    at async d.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:3783)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2906:16950
+[2022-05-27 18:50:03.171] [renderer1] [error] Error: File not found
+    at g.handleSetInputError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2701:95592)
+    at async g.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2701:94832)
+    at async doSetInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:6429)
+    at async doOpenEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:4791)
+    at async d.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:3783)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2906:16950
+[2022-05-27 18:50:03.886] [renderer1] [error] Error: File not found
+    at g.handleSetInputError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2701:95592)
+    at async g.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2701:94832)
+    at async doSetInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:6429)
+    at async doOpenEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:4791)
+    at async d.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:3783)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2906:16950
+[2022-05-27 18:50:04.320] [renderer1] [error] Error: File not found
+    at g.handleSetInputError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2701:95592)
+    at async g.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2701:94832)
+    at async doSetInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:6429)
+    at async doOpenEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:4791)
+    at async d.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:3783)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2906:16950

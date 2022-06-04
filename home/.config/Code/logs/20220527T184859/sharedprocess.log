@@ -1,0 +1,20 @@
+[2022-05-27 18:49:01.152] [sharedprocess] [info] Starting worker process with pid 73145 (type: fileWatcher, window: 1).
+[2022-05-27 18:49:01.539] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-05-27 18:49:01.540] [sharedprocess] [info] Worker process with pid 73145 terminated normally (type: fileWatcher, window: 1).
+[2022-05-27 18:49:01.548] [sharedprocess] [info] Starting worker process with pid 73163 (type: fileWatcher, window: 1).
+[2022-05-27 18:49:01.647] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-05-27 18:49:01.648] [sharedprocess] [info] Worker process with pid 73163 terminated normally (type: fileWatcher, window: 1).
+[2022-05-27 18:49:01.656] [sharedprocess] [info] Starting worker process with pid 73178 (type: fileWatcher, window: 1).
+[2022-05-27 18:49:01.767] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-05-27 18:49:01.767] [sharedprocess] [info] Worker process with pid 73178 terminated normally (type: fileWatcher, window: 1).
+[2022-05-27 18:49:01.777] [sharedprocess] [info] Starting worker process with pid 73192 (type: fileWatcher, window: 1).
+[2022-05-27 18:49:01.873] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-05-27 18:49:01.874] [sharedprocess] [info] Worker process with pid 73192 terminated normally (type: fileWatcher, window: 1).
+[2022-05-27 18:49:01.881] [sharedprocess] [info] Starting worker process with pid 73206 (type: fileWatcher, window: 1).
+[2022-05-27 18:49:01.975] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-05-27 18:49:01.976] [sharedprocess] [info] Worker process with pid 73206 terminated normally (type: fileWatcher, window: 1).
+[2022-05-27 18:49:01.985] [sharedprocess] [info] Starting worker process with pid 73220 (type: fileWatcher, window: 1).
+[2022-05-27 18:49:03.451] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-05-27 18:49:03.451] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-05-27 18:49:03.664] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-05-27 18:49:03.679] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers

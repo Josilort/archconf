@@ -1,0 +1,219 @@
+!SESSION 2022-05-15 21:14:33.620 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/j/.config/Code/User/workspaceStorage/01f2ef6ced83326731daf5bf49c5d873/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:34.866
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:34.961
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:34.985
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:34.986
+!MESSAGE Initializing Java Language Server 1.11.0.202205051333
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.029
+!MESSAGE Setting java.home /usr/lib/jvm/java-18-openjdk as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.041
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.049
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.063
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.097
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.409
+!MESSAGE Workspace initialized in 361ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.449
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.450
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.450
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.452
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.458
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.462
+!MESSAGE Creating the Java project Workspace_ec567480
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.477
+!MESSAGE Finished creating the Java project Workspace_ec567480
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.690
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.690
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.722
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.725
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:35.764
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:36.127
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:36.254
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:36.255
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:36.266
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:14:36.270
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2022-05-15 21:15:05.702 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/j/.config/Code/User/workspaceStorage/01f2ef6ced83326731daf5bf49c5d873/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:06.866
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:06.954
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:06.976
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:06.977
+!MESSAGE Initializing Java Language Server 1.11.0.202205051333
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:06.980
+!MESSAGE No workspace folders or root uri was defined. Falling back on /home/j/.config/Code/User/workspaceStorage/01f2ef6ced83326731daf5bf49c5d873/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:07.026
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:07.353
+!MESSAGE Workspace initialized in 359ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:07.369
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:07.370
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:07.371
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:07.373
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:07.684
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:07.686
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:07.694
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:07.700
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2022-05-15 21:15:13.893 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/j/.config/Code/User/workspaceStorage/01f2ef6ced83326731daf5bf49c5d873/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:15.091
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:15.184
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:15.204
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:15.205
+!MESSAGE Initializing Java Language Server 1.11.0.202205051333
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:15.233
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:15.558
+!MESSAGE Workspace initialized in 337ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:15.566
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:15.567
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:15.568
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:15.570
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:15.781
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:15.784
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:15.808
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:15.811
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2022-05-15 21:15:29.617 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/j/.config/Code/User/workspaceStorage/01f2ef6ced83326731daf5bf49c5d873/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:30.824
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:30.908
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:30.933
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:30.934
+!MESSAGE Initializing Java Language Server 1.11.0.202205051333
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:30.938
+!MESSAGE No workspace folders or root uri was defined. Falling back on /home/j/.config/Code/User/workspaceStorage/01f2ef6ced83326731daf5bf49c5d873/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:15:31.252
+!MESSAGE Workspace initialized in 299ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:16:10.842
+!MESSAGE Parent process stopped running, forcing server exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:16:10.842
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-05-15 21:16:10.848
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

@@ -1,0 +1,146 @@
+Visual Studio Code (1.67.2, undefined, desktop)
+Jupyter Extension Version: 2022.4.1021342353.
+Python Extension Version: 2022.6.2.
+Multiple Workspace folders opened /home/j/.config/awesome, /run/media/j/josia/Info/Workspace
+info 16:14:28.940: ZMQ install verified.
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 16:14:29.629: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 16:14:30.26: Preferred Remote kernel for /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb is undefined
+info 16:14:30.26: Find preferred kernel for /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb with metadata {"interpreter":{"hash":"e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a"},"kernelspec":{"display_name":"Python 3.10.4 64-bit","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.4"},"metadata":{"interpreter":{"hash":"e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a"}},"orig_nbformat":2} & preferred interpreter /bin/python
+info 16:14:30.33: Preferred Remote kernel for /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb is undefined
+info 16:14:30.33: Preferred kernel .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher is exact match
+info 16:14:30.34: PreferredConnection: .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher found for NotebookDocument: /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:14:30.34: TargetController found ID: .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher for document /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:14:30.45: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+info 16:14:30.69: Preferred Remote kernel for /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb is undefined
+info 16:14:30.69: Find preferred kernel for /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb with metadata {"interpreter":{"hash":"e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a"},"kernelspec":{"display_name":"Python 3.10.4 64-bit","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.4"},"metadata":{"interpreter":{"hash":"e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a"}},"orig_nbformat":2} & preferred interpreter /bin/python
+info 16:14:30.71: Preferred Remote kernel for /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb is undefined
+info 16:14:30.71: Preferred kernel .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher is exact match
+info 16:14:30.377: Registering dummy command feature
+info 16:14:45.918: Execute Cell 0 /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:14:45.920: Starting Notebook id = .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher for /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb (disableUI=false)
+info 16:14:45.921: Creating raw notebook for /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:14:45.922: Computing working directory /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:14:45.990: Starting raw kernel Python 3.10.4 64-bit for interpreter /bin/python
+info 16:14:45.994: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+info 16:14:46.22: Process Execution: > /bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 16:14:46.38: Process Execution: > /bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"6db19285-2ac6-43ee-b014-d1bd8ebfbc5a" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/j/.local/share/jupyter/runtime/kernel-47927U6FB17W2zUg6.json
+> /bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"6db19285-2ac6-43ee-b014-d1bd8ebfbc5a" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/j/.local/share/jupyter/runtime/kernel-47927U6FB17W2zUg6.json
+info 16:14:46.38: Process Execution: cwd: /run/media/j/josia/Info/Workspace/python
+cwd: /run/media/j/josia/Info/Workspace/python
+info 16:14:46.160: ipykernel version 6.13.0 for /bin/python
+info 16:14:46.160: ipykernel location ~/.local/lib/python3.10/site-packages/ipykernel/__init__.py for /bin/python
+warn 16:14:46.483: StdErr from Kernel Process /home/j/.local/lib/python3.10/site-packages/traitlets/traitlets.py:2389: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+/home/j/.local/lib/python3.10/site-packages/traitlets/traitlets.py:2343: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '6db19285-2ac6-43ee-b014-d1bd8ebfbc5a' instead of 'b"6db19285-2ac6-43ee-b014-d1bd8ebfbc5a"'.
+  warn(
+
+info 16:14:46.490: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing kernel-47927U6FB17W2zUg6.json
+
+info 16:14:46.678: Started kernel Python 3.10.4 64-bit, (Raw session started and connected)
+info 16:14:46.679: Finished connecting a83f85c0-6e3f-43a6-95ab-76090fe6928d
+info 16:14:46.690: UpdateWorkingDirectoryAndPath in Kernel
+info 16:14:46.691: Executing silently Code (idle) = import os\nimport sys\n%cd "/run/media/j/josia/Info/Workspace/python"\nif os.getcwd() not in sys.path:
+info 16:14:46.708: Executing silently Code (completed) = import os\nimport sys\n%cd "/run/media/j/josia/Info/Workspace/python"\nif os.getcwd() not in sys.path:
+info 16:14:46.709: Waiting for idle on (kernel): 9891436f-6853-4316-9897-7ebc1e72185e -> idle
+info 16:14:46.709: Finished waiting for idle on (kernel): 9891436f-6853-4316-9897-7ebc1e72185e -> idle
+info 16:14:46.752: Cell 0 executed with state Success
+info 16:14:49.100: Execute Cell 1 /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:14:49.126: Cell 1 executed with state Success
+info 16:17:8.100: Loading webview. View is notset
+info 16:17:8.101: Loading web view...
+info 16:17:8.101: Webview panel created.
+info 16:17:8.277: Web view react rendered
+info 16:17:8.299: Executing silently Code (idle) = # Query Jupyter server for the info about a dataframe\nimport json as _VSCODE_json\nimport builtins as
+info 16:17:8.299: Executing silently Code (idle) = # Query Jupyter server for the info about a dataframe\nimport json as _VSCODE_json\nimport builtins as
+info 16:17:8.313: Executing silently Code (completed) = # Query Jupyter server for the info about a dataframe\nimport json as _VSCODE_json\nimport builtins as
+info 16:17:8.314: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:8.322: Executing silently Code (completed) = # Query Jupyter server for the info about a dataframe\nimport json as _VSCODE_json\nimport builtins as
+info 16:17:8.322: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:8.327: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:8.335: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:8.654: Searching for token colors ...
+info 16:17:8.654: Attempting search for colors ...
+info 16:17:8.654: Loading colors from /home/j/.vscode/extensions/zhuangtongfa.material-theme-3.13.29/themes/OneDark-Pro.json ...
+info 16:17:8.677: Attempting search for colors ...
+info 16:17:8.677: Loading base colors from /home/j/.vscode/extensions/zhuangtongfa.material-theme-3.13.29/themes/OneDark-Pro.json ...
+info 16:17:8.692: Using colors to generate CSS ...
+info 16:17:20.60: Execute Cell 1 /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:17:20.88: Cell 1 executed with state Success
+info 16:17:20.128: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:20.135: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:27.907: Execute Cell 2 /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:17:27.936: Cell 2 executed with state Success
+info 16:17:27.979: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:27.985: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:29.350: Execute Cell 2 /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:17:29.378: Cell 2 executed with state Success
+info 16:17:29.426: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:29.433: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:32.795: Execute Cell 3 /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:17:32.818: Cell 3 executed with state Success
+info 16:17:32.855: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:32.861: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:38.362: Execute Cell 4 /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:17:38.389: Cell 4 executed with state Success
+info 16:17:38.461: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:38.466: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:40.338: Execute Cell 5 /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:17:40.359: Cell 5 executed with state Success
+info 16:17:40.386: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:40.392: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:41.632: Execute Cell 5 /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:17:41.656: Cell 5 executed with state Success
+info 16:17:41.679: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:41.685: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:46.15: Execute Cell 6 /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:17:46.51: Cell 6 executed with state Success
+info 16:17:46.83: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:46.88: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:51.385: Execute Cell 7 /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:17:51.425: Cell 7 executed with state Success
+info 16:17:51.451: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:17:51.458: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:18:2.747: Execute Cell 7 /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:18:2.775: Cell 7 executed with state Success
+info 16:18:2.820: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:18:2.824: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:18:4.77: Execute Cell 8 /run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 16:18:4.104: Cell 8 executed with state Success
+info 16:18:4.148: Executing silently Code (idle) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:18:4.154: Executing silently Code (completed) = import builtins\n_rwho_ls = %who_ls\nbuiltins.print(_VSCODE_getVariableTypes(_rwho_ls))
+info 16:21:49.213: Searching for token colors ...
+info 16:21:49.214: Attempting search for colors ...
+info 16:21:49.214: Loading colors from /home/j/.vscode/extensions/zhuangtongfa.material-theme-3.13.29/themes/OneDark-Pro.json ...
+info 16:21:49.225: Attempting search for colors ...
+info 16:21:49.225: Loading base colors from /home/j/.vscode/extensions/zhuangtongfa.material-theme-3.13.29/themes/OneDark-Pro.json ...
+info 16:21:49.237: Using colors to generate CSS ...
+info 17:0:32.545: Shutting down notebooks for a83f85c0-6e3f-43a6-95ab-76090fe6928d
+info 17:0:32.545: Disposing HostJupyterExecution b7392b7e-e0bf-471f-aa17-4fbe5b8500dc
+info 17:0:32.545: Disposing super HostJupyterExecution b7392b7e-e0bf-471f-aa17-4fbe5b8500dc
+info 17:0:32.546: Dispose kernel file:///run/media/j/josia/Info/Workspace/python/44-Funktionen.ipynb
+info 17:0:32.546: Cancel pending cells
+info 17:0:32.548: Dispose Kernel process
+info 17:0:32.550: Disposing HostJupyterExecution b7392b7e-e0bf-471f-aa17-4fbe5b8500dc
+info 17:0:32.550: Finished disposing HostJupyterExecution  b7392b7e-e0bf-471f-aa17-4fbe5b8500dc
+info 17:0:32.562: Cleaning up server cache b7392b7e-e0bf-471f-aa17-4fbe5b8500dc
+info 17:0:32.564: Finished disposing HostJupyterExecution  b7392b7e-e0bf-471f-aa17-4fbe5b8500dc
+error 17:0:32.564: stat() failed for "/home/j/.local/share/jupyter/runtime/kernel-47927U6FB17W2zUg6.json" [Canceled (FileSystemError): Canceled
+	at Function._handleError (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:90763)
+	at Object.stat (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:88691)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)] {
+  code: 'Unknown'
+}

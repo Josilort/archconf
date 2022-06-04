@@ -1,0 +1,39 @@
+[2022-05-27 18:49:45.200] [sharedprocess] [info] Starting worker process with pid 73537 (type: fileWatcher, window: 1).
+[2022-05-27 18:49:45.318] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-05-27 18:49:45.318] [sharedprocess] [info] Worker process with pid 73537 terminated normally (type: fileWatcher, window: 1).
+[2022-05-27 18:49:45.325] [sharedprocess] [info] Starting worker process with pid 73551 (type: fileWatcher, window: 1).
+[2022-05-27 18:49:45.420] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-05-27 18:49:45.420] [sharedprocess] [info] Worker process with pid 73551 terminated normally (type: fileWatcher, window: 1).
+[2022-05-27 18:49:45.426] [sharedprocess] [info] Starting worker process with pid 73566 (type: fileWatcher, window: 1).
+[2022-05-27 18:49:45.517] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-05-27 18:49:45.517] [sharedprocess] [info] Worker process with pid 73566 terminated normally (type: fileWatcher, window: 1).
+[2022-05-27 18:49:45.523] [sharedprocess] [info] Starting worker process with pid 73580 (type: fileWatcher, window: 1).
+[2022-05-27 18:49:45.615] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-05-27 18:49:45.615] [sharedprocess] [info] Worker process with pid 73580 terminated normally (type: fileWatcher, window: 1).
+[2022-05-27 18:49:45.623] [sharedprocess] [info] Starting worker process with pid 73594 (type: fileWatcher, window: 1).
+[2022-05-27 18:49:45.726] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[2022-05-27 18:49:45.728] [sharedprocess] [info] Worker process with pid 73594 terminated normally (type: fileWatcher, window: 1).
+[2022-05-27 18:49:45.734] [sharedprocess] [info] Starting worker process with pid 73608 (type: fileWatcher, window: 1).
+[2022-05-27 18:49:47.145] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-05-27 18:49:47.147] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-05-27 18:49:47.333] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-05-27 18:49:47.334] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-05-27 18:49:49.342] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/j/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.7
+[2022-05-27 18:49:49.500] [sharedprocess] [info] Extracted extension to /home/j/.vscode/extensions/.88533852-8666-4df1-b45f-c6a02efdf181: ms-toolsai.jupyter-renderers
+[2022-05-27 18:49:49.504] [sharedprocess] [info] Renamed to /home/j/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.7
+[2022-05-27 18:49:49.505] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-05-27 18:49:49.508] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-05-27 18:49:51.299] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/j/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.5.3
+[2022-05-27 18:49:53.080] [sharedprocess] [info] Extracted extension to /home/j/.vscode/extensions/.a5b37d7a-521e-44e0-95d1-82c7154e88ea: ms-python.vscode-pylance
+[2022-05-27 18:49:53.086] [sharedprocess] [info] Renamed to /home/j/.vscode/extensions/ms-python.vscode-pylance-2022.5.3
+[2022-05-27 18:49:53.088] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-05-27 18:49:53.091] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-05-27 18:50:30.751] [sharedprocess] [info] Worker process with pid 73608 terminated normally (type: fileWatcher, window: 1).
+[2022-05-27 18:50:31.483] [sharedprocess] [info] Starting worker process with pid 73858 (type: fileWatcher, window: 1).
+[2022-05-27 18:51:01.703] [sharedprocess] [info] Getting Manifest... vlanguage.vscode-vlang
+[2022-05-27 18:51:01.708] [sharedprocess] [info] Installing extension: vlanguage.vscode-vlang
+[2022-05-27 18:51:02.737] [sharedprocess] [info] Downloaded extension: vlanguage.vscode-vlang /home/j/.config/Code/CachedExtensionVSIXs/vlanguage.vscode-vlang-0.1.13
+[2022-05-27 18:51:02.775] [sharedprocess] [info] Extracted extension to /home/j/.vscode/extensions/.dc9e53e5-7b8b-4636-88bd-b6119d522e2e: vlanguage.vscode-vlang
+[2022-05-27 18:51:02.778] [sharedprocess] [info] Renamed to /home/j/.vscode/extensions/vlanguage.vscode-vlang-0.1.13
+[2022-05-27 18:51:02.779] [sharedprocess] [info] Extracting completed. vlanguage.vscode-vlang
+[2022-05-27 18:51:02.780] [sharedprocess] [info] Extension installed successfully: vlanguage.vscode-vlang

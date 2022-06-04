@@ -1,0 +1,43 @@
+[2022-05-27 20:20:34.029] [exthost] [info] Extension host with pid 103723 started
+[2022-05-27 20:20:34.029] [exthost] [info] Skipping acquiring lock for /home/j/.config/Code/User/workspaceStorage/58bb743b4abc472a50f77c95472dd42a.
+[2022-05-27 20:20:34.095] [exthost] [info] ExtensionService#_doActivateExtension vlanguage.vscode-vlang, startup: false, activationEvent: 'onLanguage:v'
+[2022-05-27 20:20:34.105] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-27 20:20:34.150] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-27 20:20:34.407] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-27 20:20:34.437] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-27 20:20:34.445] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-27 20:20:34.446] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-27 20:20:34.447] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-27 20:20:34.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-27 20:20:34.537] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-27 20:20:34.903] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-05-27 20:20:34.904] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-27 20:20:35.034] [exthost] [info] Eager extensions activated
+[2022-05-27 20:20:35.035] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-27 20:20:35.070] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-27 20:20:35.073] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-27 20:20:35.074] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-27 20:20:35.077] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-27 20:20:35.082] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-27 20:20:35.136] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-27 20:20:36.546] [exthost] [info] ExtensionService#_doActivateExtension redhat.java, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-27 20:20:36.571] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-27 20:20:36.586] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-27 20:20:36.613] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-27 20:20:36.726] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2022-05-27 20:20:36.757] [exthost] [error] TypeError: Cannot read properties of undefined (reading 'sendRequest')
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:698558
+	at o._executeContributedCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:31333)
+	at o._doExecuteCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:30153)
+	at o._doExecuteCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:30868)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5) java.execute.workspaceCommand {"value":"redhat.java","_lower":"redhat.java"}
+[2022-05-27 20:20:36.809] [exthost] [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+[2022-05-27 20:20:38.626] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test, startup: false, activationEvent: 'onLanguage:java'
+[2022-05-27 20:20:38.777] [exthost] [error] [redhat.java] provider FAILED
+[2022-05-27 20:20:38.778] [exthost] [error] Error: The request (id: 1, method: 'textDocument/documentSymbol') has been cancelled
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019383
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1019677
+	at Immediate.<anonymous> (/home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:1020042)
+	at processImmediate (node:internal/timers:464:21)
+[2022-05-27 20:21:00.908] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-05-27 20:21:00.932] [exthost] [info] Extension host with pid 103723 exiting with code 0

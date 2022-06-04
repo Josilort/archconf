@@ -1,0 +1,5 @@
+[2022-05-24 19:37:13.159] [renderer1] [info] [onWill-handler] applying additional workspace edit from extensions ["Language Support for Java(TM) by Red Hat"]
+[2022-05-24 19:47:51.826] [renderer1] [error] s.logFailedRequest is not a function: TypeError: s.logFailedRequest is not a function
+	at /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/dist/extension.js:2:697505
+	at async U.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:103131)
+[2022-05-24 20:16:56.523] [renderer1] [info] [onWill-handler] applying additional workspace edit from extensions ["Language Support for Java(TM) by Red Hat"]

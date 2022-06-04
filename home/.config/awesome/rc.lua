@@ -12,6 +12,7 @@ local wibox = require("wibox")
 local beautiful = require("beautiful")
 -- Notification library
 local naughty = require("naughty")
+local ruled = require("ruled")
 local hotkeys_popup = require("awful.hotkeys_popup")
 -- Enable hotkeys help widget for VIM and other apps
 -- when client with a matching name is opened:
@@ -215,20 +216,16 @@ root.buttons(gears.table.join(
 globalkeys = gears.table.join(
     awful.key({ modkey,           }, "s",      hotkeys_popup.show_help,
               {description="show help", group="awesome"}),
-    awful.key({ modkey,           }, "Left",   awful.tag.viewprev,
-              {description = "view previous", group = "tag"}),
-    awful.key({ modkey,           }, "Right",  awful.tag.viewnext,
-              {description = "view next", group = "tag"}),
     awful.key({ modkey,           }, "Escape", awful.tag.history.restore,
               {description = "go back", group = "tag"}),
 
-    awful.key({ modkey,           }, "j",
+    awful.key({ modkey,           }, "Right",
         function ()
             awful.client.focus.byidx( 1)
         end,
         {description = "focus next by index", group = "client"}
     ),
-    awful.key({ modkey,           }, "k",
+    awful.key({ modkey,           }, "Left",
         function ()
             awful.client.focus.byidx(-1)
         end,
@@ -293,8 +290,8 @@ globalkeys = gears.table.join(
               {description = "restore minimized", group = "client"}),
 
     -- Prompt
-    awful.key({ modkey },            "r",     function () awful.screen.focused().mypromptbox:run() end,
-              {description = "run prompt", group = "launcher"}),
+--    awful.key({ modkey },            "r",     function () awful.screen.focused().mypromptbox:run() end,
+--              {description = "run prompt", group = "launcher"}),
 
     awful.key({ modkey }, "x",
               function ()
@@ -311,16 +308,16 @@ globalkeys = gears.table.join(
 	      {description = "run rofi", group = "launcher"}),  
     
     -- Screenshot
-    awful.key({ }, "Print", function () awful.util.spawn_with_shell("imlib2_grab ~/Pictures/$(date '+%Y%m%d-%H%M%S').png") end,
-              {description = "take a screenshot", group = "launcher"}),
+    awful.key({ modkey }, "Delete", function () awful.util.spawn_with_shell("sleep 0.5 && scrot -s '%Y-%m-%d_$wx$h_scrot.png' -e 'mv $f /home/j/Pictures/Screenshots/' --line mode=edge") end,
+              {description = "take a screenshot", group = "launcher"})--,
     
     -- Volume
-    awful.key({ }, "XF86AudioRaiseVolume", function () awful.util.spawn_with_shell("amixer set Master 5%+") end,
-              {description = "take a screenshot", group = "launcher"}),
-    awful.key({ }, "XF86AudioLowerVolume", function () awful.util.spawn_with_shell("amixer set Master 5%-") end,
-              {description = "take a screenshot", group = "launcher"}),
-    awful.key({ }, "XF86AudioMute", function () awful.util.spawn_with_shell("amixer set Master toggle") end,
-              {description = "take a screenshot", group = "launcher"})
+--    awful.key({ }, "XF86AudioRaiseVolume", function () awful.util.spawn_with_shell("amixer set Master 5%+") end,
+--              {description = "take a screenshot", group = "launcher"}),
+--    awful.key({ }, "XF86AudioLowerVolume", function () awful.util.spawn_with_shell("amixer set Master 5%-") end,
+--              {description = "take a screenshot", group = "launcher"}),
+--    awful.key({ }, "XF86AudioMute", function () awful.util.spawn_with_shell("amixer set Master toggle") end,
+--              {description = "take a screenshot", group = "launcher"})
 )
 
 clientkeys = gears.table.join(
@@ -476,6 +473,9 @@ awful.rules.rules = {
         -- and the name shown there might not match defined rules here.
         name = {
           "Event Tester",  -- xev.
+          "Settings",
+	  "DesktopEditors",
+	  "Picture in picture"
         },
         role = {
           "AlarmWindow",  -- Thunderbird's calendar.
@@ -485,21 +485,24 @@ awful.rules.rules = {
       }, properties = { floating = true }},
 
     -- Fullscreen.
-    { rule_any = {
-
-        class = {
-	   "Badlion Minecraft Client v3.8.1-9b55b70-PRODUCTION3 (1.8.9)"		
-	},
-
-        -- Note that the name property shown in xprop might be set slightly after creation of the client
-        -- and the name shown there might not match defined rules here.
-
-      }, properties = { screen = 1, fullscreen = true, ontop = true, focus = yes }},
+    --{ rule_any = {
+    --
+    --    class = {
+	--   "Badlion Minecraft Client v3.8.1-9b55b70-PRODUCTION3 (1.8.9)"		
+	--},
+    --
+    --    -- Note that the name property shown in xprop might be set slightly after creation of the client
+    --    -- and the name shown there might not match defined rules here.
+    --
+    --  }, properties = { screen = 1, fullscreen = true, ontop = true, focus = yes }},
 
     -- Add titlebars to normal clients and dialogs
     { rule_any = {type = { "normal", "dialog" }
       }, properties = { titlebars_enabled = false }
     },
+
+    --{ rule = { class = "scrot" },
+    --   properties = { ontop = true } },
 
     -- Set Firefox to always map on the tag named "2" on screen 1.
     -- { rule = { class = "Firefox" },
@@ -561,6 +564,29 @@ client.connect_signal("request::titlebars", function(c)
         layout = wibox.layout.align.horizontal
     }
 end)
+
+-- {{{ Notifications
+
+ruled.notification.connect_signal('request::rules', function()
+    -- All notifications will match this rule.
+    ruled.notification.append_rule {
+        rule       = { },
+        properties = {
+            screen           = 1,
+            implicit_timeout = 5,
+	    position	     = "top_middle",
+	    border_width     = beautiful.border_width,
+            border_color     = "#3b4252",
+	    bg 		     = "#3b4252",
+        }
+    }
+end)
+
+naughty.connect_signal("request::display", function(n)
+    naughty.layout.box { notification = n }
+end)
+
+-- }}}
 
 -- Enable sloppy focus, so that focus follows mouse.
 client.connect_signal("mouse::enter", function(c)

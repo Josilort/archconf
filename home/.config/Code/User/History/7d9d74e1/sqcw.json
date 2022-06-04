@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Nord",
+    "files.autoSave": "afterDelay",
+    "window.menuBarVisibility": "toggle",
+
+    "java.jdt.ls.java.home": "/media/dittjo/josia/Info/JDK/jdk-18-linux"
+}

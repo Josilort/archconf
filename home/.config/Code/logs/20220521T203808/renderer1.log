@@ -1,0 +1,21 @@
+[2022-05-21 20:38:09.602] [renderer1] [warning] Ignoring the error while validating workspace folder file:///run/media/j/josia/Info/Workspace - Error: ENOENT: no such file or directory, stat '/run/media/j/josia/Info/Workspace'
+[2022-05-21 20:38:09.653] [renderer1] [error] Error: File not found
+    at g.handleSetInputError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2701:95592)
+    at async g.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2701:94832)
+    at async doSetInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:6429)
+    at async doOpenEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:4791)
+    at async d.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2699:3783)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2906:16950
+[2022-05-21 20:38:10.459] [renderer1] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /run/media/j/josia/Info/Workspace)
+[2022-05-21 20:38:10.460] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-05-21 20:38:10.580] [renderer1] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /run/media/j/josia/Info/Workspace)
+[2022-05-21 20:38:10.580] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-05-21 20:38:10.677] [renderer1] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /run/media/j/josia/Info/Workspace)
+[2022-05-21 20:38:10.677] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-05-21 20:38:10.774] [renderer1] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /run/media/j/josia/Info/Workspace)
+[2022-05-21 20:38:10.775] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-05-21 20:38:10.886] [renderer1] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /run/media/j/josia/Info/Workspace)
+[2022-05-21 20:38:10.888] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-05-21 20:38:11.002] [renderer1] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /run/media/j/josia/Info/Workspace)
+[2022-05-21 20:38:11.002] [renderer1] [error] [File Watcher (universal)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-05-21 20:38:11.221] [renderer1] [error] ENOENT: no such file or directory, scandir '/run/media/j/josia/Info/Workspace': Error: ENOENT: no such file or directory, scandir '/run/media/j/josia/Info/Workspace'

@@ -1,0 +1,26 @@
+[2022-05-27T17:50:22.548Z] Validating found git in: git
+[2022-05-27T17:50:22.580Z] Using git 2.36.1 from git
+[2022-05-27T17:50:22.672Z] > git rev-parse --show-toplevel [87ms]
+[2022-05-27T17:50:22.672Z] fatal: not a git repository (or any parent up to mount point /run/media/j)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-05-27T17:50:22.689Z] > git rev-parse --show-toplevel [13ms]
+[2022-05-27T17:50:22.689Z] fatal: not a git repository (or any parent up to mount point /run/media/j)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-05-27T17:50:22.697Z] > git rev-parse --show-toplevel [4ms]
+[2022-05-27T17:50:22.697Z] fatal: not a git repository (or any parent up to mount point /run/media/j)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-05-27T17:50:22.703Z] > git rev-parse --show-toplevel [3ms]
+[2022-05-27T17:50:22.703Z] fatal: not a git repository (or any parent up to mount point /run/media/j)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-05-27T17:50:22.708Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-27T17:50:22.708Z] fatal: not a git repository (or any parent up to mount point /run/media/j)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-05-27T17:50:22.712Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-27T17:50:22.712Z] fatal: not a git repository (or any parent up to mount point /run/media/j)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-05-27T17:50:22.717Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-27T17:50:22.717Z] fatal: not a git repository (or any parent up to mount point /run/media/j)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-05-27T17:50:24.558Z] > git rev-parse --show-toplevel [2ms]
+[2022-05-27T17:50:24.558Z] fatal: not a git repository (or any parent up to mount point /run/media/j)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

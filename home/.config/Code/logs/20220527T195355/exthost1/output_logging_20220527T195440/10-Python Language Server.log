@@ -1,0 +1,18 @@
+[Info  - 8:06:13 PM] (98874) Pylance language server 2022.5.3 (pyright 73c82fab) starting
+[Info  - 8:06:13 PM] (98874) Server root directory: /home/j/.vscode/extensions/ms-python.vscode-pylance-2022.5.3/dist
+Notebook support: Legacy
+[Info  - 8:06:13 PM] (98874) No configuration file found.
+[Info  - 8:06:13 PM] (98874) No pyproject.toml file found.
+[Info  - 8:06:13 PM] (98874) Setting pythonPath for service "Workspace": "/bin/python"
+[Warn  - 8:06:13 PM] (98874) stubPath /run/media/j/josia/Info/Workspace/typings is not a valid directory.
+[Info  - 8:06:13 PM] (98874) Assuming Python version 3.10
+[Info  - 8:06:13 PM] (98874) Assuming Python platform Linux
+[Info  - 8:06:13 PM] (98874) Searching for source files
+[Info  - 8:06:13 PM] (98874) Found 4 source files
+[Info  - 8:06:14 PM] (98874) Background analysis(1) root directory: /home/j/.vscode/extensions/ms-python.vscode-pylance-2022.5.3/dist
+[Info  - 8:06:14 PM] (98874) Background analysis(1) started
+[Info  - 8:06:14 PM] (98874) Indexer background runner(2) root directory: /home/j/.vscode/extensions/ms-python.vscode-pylance-2022.5.3/dist (index)
+[Info  - 8:06:14 PM] (98874) Indexing(2) started
+[Info  - 8:06:16 PM] (98874) Indexer done(2). indexed 516 files
+[Info  - 8:13:27 PM] (98874) Searching for source files
+[Info  - 8:13:27 PM] (98874) Found 4 source files

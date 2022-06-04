@@ -1,0 +1,10 @@
+[2022-05-24 16:06:51.659] [sharedprocess] [info] Starting worker process with pid 46268 (type: fileWatcher, window: 1).
+[2022-05-24 16:07:00.079] [sharedprocess] [info] Getting Manifest... zhuangtongfa.material-theme
+[2022-05-24 16:07:00.084] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2022-05-24 16:07:00.222] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /home/j/.config/Code/CachedExtensionVSIXs/zhuangtongfa.material-theme-3.13.29
+[2022-05-24 16:07:00.279] [sharedprocess] [info] Extracted extension to /home/j/.vscode/extensions/.11ad9cce-b340-4c0a-a338-f1724f698ff5: zhuangtongfa.material-theme
+[2022-05-24 16:07:00.284] [sharedprocess] [info] Renamed to /home/j/.vscode/extensions/zhuangtongfa.material-theme-3.13.29
+[2022-05-24 16:07:00.285] [sharedprocess] [info] Extracting completed. zhuangtongfa.material-theme
+[2022-05-24 16:07:00.286] [sharedprocess] [info] Extension installed successfully: zhuangtongfa.material-theme
+[2022-05-24 16:10:37.814] [sharedprocess] [info] Worker process with pid 46268 terminated normally (type: fileWatcher, window: 1).
+[2022-05-24 16:10:38.566] [sharedprocess] [info] Starting worker process with pid 47934 (type: fileWatcher, window: 1).

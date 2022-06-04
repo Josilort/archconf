@@ -1,0 +1,20 @@
+{
+  message: "Use the JDK from '' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2022-05-20 18:55:27.200'
+}
+{
+  message: 'Starting Java server with: /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/jre/17.0.2-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -jar /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/j/.config/Code/User/globalStorage/redhat.java/1.6.0/config_ss_linux -data /home/j/.config/Code/User/workspaceStorage/d78da62daa4525dd9fc4cc142a882409/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2022-05-20 18:55:27.217'
+}
+{
+  message: 'Starting Java server with: /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/jre/17.0.2-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/j/.config/Code/User/workspaceStorage/d78da62daa4525dd9fc4cc142a882409/redhat.java -jar /home/j/.vscode/extensions/redhat.java-1.6.0-linux-x64/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/j/.config/Code/User/globalStorage/redhat.java/1.6.0/config_linux -data /home/j/.config/Code/User/workspaceStorage/d78da62daa4525dd9fc4cc142a882409/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2022-05-20 18:55:27.370'
+}
+{
+  message: '[Error - 6:55:31 PM] Connection to server got closed. Server will not be restarted.',
+  level: 'info',
+  timestamp: '2022-05-20 18:55:31.027'
+}
